@@ -12,7 +12,7 @@ function Navbar () {
     }
 
     return (
-        <div className='pt-4 w-screen h-[100px] z-10 fixed'>
+        <div className='pt-4 w-screen h-[100px] z-10 fixed bg-white'>
 
             <div className='px-2 flex justify-between items-center h-full'>
                 <div className='flex items-center md:mx-auto md:min-w-[1368px]'>
